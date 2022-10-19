@@ -1,6 +1,6 @@
-# termo-kali
+# Termo-kali
 kali linux for termux and android 
-## primary installation
+## Primary installation
 pkg update -y
 
 pkg upgrade -y
