@@ -1,4 +1,4 @@
-#kalimux by N17R0 (noob hackers)
+#termo-kali by kaztral
 
 #colours
 cyan='\033[1;36m'
