@@ -1,13 +1,13 @@
 # Termo-kali
-kali linux for termux and android 
-## Primary installation
+KALI LINUX FOR TERMUX AND ANDROID 
+## PRIMARY INSTALLATION
 $ pkg update -y
 
 $ pkg upgrade -y
 
 $ pkg install git -y
 
-# git clone 
+# GIT CLONE 
 $ git clone https://github.com/Piratekaz/termo-kali.git
 
 # steps
