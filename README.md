@@ -1,7 +1,5 @@
 # Termo-Kali
 
-![Termo-Kali Logo](https://images.app.goo.gl/SrQL5) <!-- Replace this with an actual banner/logo -->
-
 ## 🔥 Experience Kali Linux on Termux & Android
 
 **Termo-Kali** brings the power of Kali Linux into the palm of your hand. Designed for simplicity and speed, it allows you to install and run Kali Linux directly on your Android device using Termux.
