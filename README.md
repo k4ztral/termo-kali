@@ -39,7 +39,7 @@ sh termo-kali.sh
 
 ## 📦 Download Termux
 
-[![Download Termux](https://via.placeholder.com/200x50?text=Download+Termux)](https://f-droid.org/repo/com.termux_118.apk)
+[![Download Termux](https://via.placeholder.com/800x200?text=Termo-Kali+Header)](https://f-droid.org/repo/com.termux_118.apk)
 
 ---
 
